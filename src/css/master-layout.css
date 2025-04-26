@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --color-graphite: #2C2C2C;
+    --color-bright-brick: #EE7828;
+    --color-craft: #806D61;
+    --color-concrete: #C5BAAA;
+}
